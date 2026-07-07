@@ -35,7 +35,7 @@ In OSOH, **trust is the most valuable hardware.**
 ## 4. Authority Metric ($A$)
 Authority is not a title or a political function; it is the output of a mathematical calculation:
 
-$$A = Authorization \times Duty \times Responsibility$$
+$$A = [Authorization] \times [Duty] \times [Responsibility]$$
 
 If **Responsibility** is missing, your Authority is **0**. The system becomes "blind" to you. You cannot parasitize the meadow because your signal cannot pass through the gate.
 
